@@ -1,0 +1,41 @@
+D:\Users\Lar\Documents\Private\RUDN\25 CV\Projects\WindowsFormsAppConvolution\WindowsFormsAppConvolution\bin\Debug\WindowsFormsAppConvolution.exe.config
+D:\Users\Lar\Documents\Private\RUDN\25 CV\Projects\WindowsFormsAppConvolution\WindowsFormsAppConvolution\bin\Debug\WindowsFormsAppConvolution.exe
+D:\Users\Lar\Documents\Private\RUDN\25 CV\Projects\WindowsFormsAppConvolution\WindowsFormsAppConvolution\bin\Debug\WindowsFormsAppConvolution.pdb
+D:\Users\Lar\Documents\Private\RUDN\25 CV\Projects\WindowsFormsAppConvolution\WindowsFormsAppConvolution\obj\Debug\WindowsFormsAppConvolution.csproj.AssemblyReference.cache
+D:\Users\Lar\Documents\Private\RUDN\25 CV\Projects\WindowsFormsAppConvolution\WindowsFormsAppConvolution\obj\Debug\WindowsFormsAppConvolution.Form1.resources
+D:\Users\Lar\Documents\Private\RUDN\25 CV\Projects\WindowsFormsAppConvolution\WindowsFormsAppConvolution\obj\Debug\WindowsFormsAppConvolution.Properties.Resources.resources
+D:\Users\Lar\Documents\Private\RUDN\25 CV\Projects\WindowsFormsAppConvolution\WindowsFormsAppConvolution\obj\Debug\WindowsFormsAppConvolution.csproj.GenerateResource.cache
+D:\Users\Lar\Documents\Private\RUDN\25 CV\Projects\WindowsFormsAppConvolution\WindowsFormsAppConvolution\obj\Debug\WindowsFormsAppConvolution.csproj.CoreCompileInputs.cache
+D:\Users\Lar\Documents\Private\RUDN\25 CV\Projects\WindowsFormsAppConvolution\WindowsFormsAppConvolution\obj\Debug\WindowsFormsAppConvolution.exe
+D:\Users\Lar\Documents\Private\RUDN\25 CV\Projects\WindowsFormsAppConvolution\WindowsFormsAppConvolution\obj\Debug\WindowsFormsAppConvolution.pdb
+d:\Users\Lar\Documents\Private\RUDN\25 CV\Projects\7 WindowsFormsAppConvolution\WindowsFormsAppConvolution\bin\Debug\WindowsFormsAppConvolution.exe.config
+d:\Users\Lar\Documents\Private\RUDN\25 CV\Projects\7 WindowsFormsAppConvolution\WindowsFormsAppConvolution\bin\Debug\WindowsFormsAppConvolution.exe
+d:\Users\Lar\Documents\Private\RUDN\25 CV\Projects\7 WindowsFormsAppConvolution\WindowsFormsAppConvolution\bin\Debug\WindowsFormsAppConvolution.pdb
+d:\Users\Lar\Documents\Private\RUDN\25 CV\Projects\7 WindowsFormsAppConvolution\WindowsFormsAppConvolution\obj\Debug\WindowsFormsAppConvolution.csproj.AssemblyReference.cache
+d:\Users\Lar\Documents\Private\RUDN\25 CV\Projects\7 WindowsFormsAppConvolution\WindowsFormsAppConvolution\obj\Debug\WindowsFormsAppConvolution.Form1.resources
+d:\Users\Lar\Documents\Private\RUDN\25 CV\Projects\7 WindowsFormsAppConvolution\WindowsFormsAppConvolution\obj\Debug\WindowsFormsAppConvolution.Properties.Resources.resources
+d:\Users\Lar\Documents\Private\RUDN\25 CV\Projects\7 WindowsFormsAppConvolution\WindowsFormsAppConvolution\obj\Debug\WindowsFormsAppConvolution.csproj.GenerateResource.cache
+d:\Users\Lar\Documents\Private\RUDN\25 CV\Projects\7 WindowsFormsAppConvolution\WindowsFormsAppConvolution\obj\Debug\WindowsFormsAppConvolution.csproj.CoreCompileInputs.cache
+d:\Users\Lar\Documents\Private\RUDN\25 CV\Projects\7 WindowsFormsAppConvolution\WindowsFormsAppConvolution\obj\Debug\WindowsFormsAppConvolution.exe
+d:\Users\Lar\Documents\Private\RUDN\25 CV\Projects\7 WindowsFormsAppConvolution\WindowsFormsAppConvolution\obj\Debug\WindowsFormsAppConvolution.pdb
+d:\Users\Lar\Documents\Private\RUDN\3 КЗ\Projects\6 WindowsFormsAppConvolution\WindowsFormsAppConvolution\bin\Debug\WindowsFormsAppConvolution.exe.config
+d:\Users\Lar\Documents\Private\RUDN\3 КЗ\Projects\6 WindowsFormsAppConvolution\WindowsFormsAppConvolution\bin\Debug\WindowsFormsAppConvolution.exe
+d:\Users\Lar\Documents\Private\RUDN\3 КЗ\Projects\6 WindowsFormsAppConvolution\WindowsFormsAppConvolution\bin\Debug\WindowsFormsAppConvolution.pdb
+d:\Users\Lar\Documents\Private\RUDN\3 КЗ\Projects\6 WindowsFormsAppConvolution\WindowsFormsAppConvolution\obj\Debug\WindowsFormsAppConvolution.csproj.AssemblyReference.cache
+d:\Users\Lar\Documents\Private\RUDN\3 КЗ\Projects\6 WindowsFormsAppConvolution\WindowsFormsAppConvolution\obj\Debug\WindowsFormsAppConvolution.Form1.resources
+d:\Users\Lar\Documents\Private\RUDN\3 КЗ\Projects\6 WindowsFormsAppConvolution\WindowsFormsAppConvolution\obj\Debug\WindowsFormsAppConvolution.Properties.Resources.resources
+d:\Users\Lar\Documents\Private\RUDN\3 КЗ\Projects\6 WindowsFormsAppConvolution\WindowsFormsAppConvolution\obj\Debug\WindowsFormsAppConvolution.csproj.GenerateResource.cache
+d:\Users\Lar\Documents\Private\RUDN\3 КЗ\Projects\6 WindowsFormsAppConvolution\WindowsFormsAppConvolution\obj\Debug\WindowsFormsAppConvolution.csproj.CoreCompileInputs.cache
+d:\Users\Lar\Documents\Private\RUDN\3 КЗ\Projects\6 WindowsFormsAppConvolution\WindowsFormsAppConvolution\obj\Debug\WindowsFormsAppConvolution.exe
+d:\Users\Lar\Documents\Private\RUDN\3 КЗ\Projects\6 WindowsFormsAppConvolution\WindowsFormsAppConvolution\obj\Debug\WindowsFormsAppConvolution.pdb
+T:\Универ\КИТ\6 WindowsFormsAppConvolution\WindowsFormsAppConvolution\bin\Debug\WindowsFormsAppConvolution.exe.config
+T:\Универ\КИТ\6 WindowsFormsAppConvolution\WindowsFormsAppConvolution\bin\Debug\WindowsFormsAppConvolution.exe
+T:\Универ\КИТ\6 WindowsFormsAppConvolution\WindowsFormsAppConvolution\bin\Debug\WindowsFormsAppConvolution.pdb
+T:\Универ\КИТ\6 WindowsFormsAppConvolution\WindowsFormsAppConvolution\obj\Debug\WindowsFormsAppConvolution.csproj.AssemblyReference.cache
+T:\Универ\КИТ\6 WindowsFormsAppConvolution\WindowsFormsAppConvolution\obj\Debug\WindowsFormsAppConvolution.csproj.SuggestedBindingRedirects.cache
+T:\Универ\КИТ\6 WindowsFormsAppConvolution\WindowsFormsAppConvolution\obj\Debug\WindowsFormsAppConvolution.Form1.resources
+T:\Универ\КИТ\6 WindowsFormsAppConvolution\WindowsFormsAppConvolution\obj\Debug\WindowsFormsAppConvolution.Properties.Resources.resources
+T:\Универ\КИТ\6 WindowsFormsAppConvolution\WindowsFormsAppConvolution\obj\Debug\WindowsFormsAppConvolution.csproj.GenerateResource.cache
+T:\Универ\КИТ\6 WindowsFormsAppConvolution\WindowsFormsAppConvolution\obj\Debug\WindowsFormsAppConvolution.csproj.CoreCompileInputs.cache
+T:\Универ\КИТ\6 WindowsFormsAppConvolution\WindowsFormsAppConvolution\obj\Debug\WindowsFormsAppConvolution.exe
+T:\Универ\КИТ\6 WindowsFormsAppConvolution\WindowsFormsAppConvolution\obj\Debug\WindowsFormsAppConvolution.pdb
